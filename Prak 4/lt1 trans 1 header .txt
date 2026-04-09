@@ -1,0 +1,2 @@
+Usia;Kelompok usia 
+Usia      ;Kelompok usia       
